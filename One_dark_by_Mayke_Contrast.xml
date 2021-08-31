@@ -5,10 +5,10 @@
   <name>One_dark_by_Mayke_Contrast</name>
   <colors>
     <color id="background" value="121212ff"/>
-    <color id="foreground" value="c4d7f4ff"/>
-    <color id="text" value="ffffffff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="abb2bfff"/>
     <color id="highlight" value="383d48ff"/>
-    <color id="selectionBackground" value="a6caf0ff"/>
+    <color id="selectionBackground" value="444267ff"/>
     <color id="selectionForeground" value="ffffffff"/>
     <color id="button" value="3a3f4bff"/>
     <color id="secondaryBackground" value="121212ff"/>
@@ -16,9 +16,9 @@
     <color id="contrast" value="121212ff"/>
     <color id="tableSelected" value="383e49ff"/>
     <color id="secondBorder" value="282c34ff"/>
-    <color id="treeSelection" value="a6caf0ff"/>
+    <color id="treeSelection" value="383e49ff"/>
     <color id="notifications" value="121212ff"/>
-    <color id="accent" value="2979ffff"/>
+    <color id="accent" value="ff9800ff"/>
     <color id="excluded" value="3c4150ff"/>
   </colors>
   <themeId>One_dark_by_Mayke_Contrast</themeId>

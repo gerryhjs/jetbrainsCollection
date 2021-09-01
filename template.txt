@@ -1,0 +1,1 @@
+jdbc:redis:Server={host::localhost};Port={port::6379};Password={password};

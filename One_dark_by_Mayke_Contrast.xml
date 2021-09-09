@@ -5,7 +5,7 @@
   <name>One_dark_by_Mayke_Contrast</name>
   <colors>
     <color id="background" value="121212ff"/>
-    <color id="foreground" value="ffffffff"/>
+    <color id="foreground" value="e1e4e8ff"/>
     <color id="text" value="abb2bfff"/>
     <color id="highlight" value="383d48ff"/>
     <color id="selectionBackground" value="215b77ff"/>

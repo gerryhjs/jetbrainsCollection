@@ -5,21 +5,21 @@
   <name>One_dark_by_Mayke_Contrast</name>
   <colors>
     <color id="background" value="121212ff"/>
-    <color id="foreground" value="abb2bfff"/>
-    <color id="text" value="6b727dff"/>
-    <color id="highlight" value="383d48ff"/>
-    <color id="selectionBackground" value="444267ff"/>
-    <color id="selectionForeground" value="abb2bfff"/>
-    <color id="button" value="3a3f4bff"/>
-    <color id="secondaryBackground" value="121212ff"/>
-    <color id="disabled" value="6b727dff"/>
+    <color id="foreground" value="959da5ff"/>
+    <color id="text" value="959da5ff"/>
+    <color id="highlight" value="444d56ff"/>
+    <color id="selectionBackground" value="215b77ff"/>
+    <color id="selectionForeground" value="a8b2bcff"/>
+    <color id="button" value="39414aff"/>
+    <color id="secondaryBackground" value="2f363dff"/>
+    <color id="disabled" value="6a737dff"/>
     <color id="contrast" value="121212ff"/>
-    <color id="tableSelected" value="383e49ff"/>
-    <color id="secondBorder" value="282c34ff"/>
-    <color id="treeSelection" value="383e49ff"/>
-    <color id="notifications" value="282c34ff"/>
-    <color id="accent" value="ff9800ff"/>
-    <color id="excluded" value="3c4150ff"/>
+    <color id="tableSelected" value="39414aff"/>
+    <color id="secondBorder" value="1b1f23ff"/>
+    <color id="treeSelection" value="39414aff"/>
+    <color id="notifications" value="2f363dff"/>
+    <color id="accent" value="f9826cff"/>
+    <color id="excluded" value="2f363dff"/>
   </colors>
   <themeId>One_dark_by_Mayke_Contrast</themeId>
 </mtTheme>

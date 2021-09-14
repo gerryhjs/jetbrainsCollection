@@ -7,15 +7,15 @@
     <color id="background" value="121212ff"/>
     <color id="foreground" value="959da5ff"/>
     <color id="text" value="959da5ff"/>
-    <color id="highlight" value="444d56ff"/>
+    <color id="highlight" value="959da5ff"/>
     <color id="selectionBackground" value="215b77ff"/>
     <color id="selectionForeground" value="a8b2bcff"/>
     <color id="button" value="39414aff"/>
-    <color id="secondaryBackground" value="2f363dff"/>
+    <color id="secondaryBackground" value="121212ff"/>
     <color id="disabled" value="6a737dff"/>
     <color id="contrast" value="121212ff"/>
     <color id="tableSelected" value="39414aff"/>
-    <color id="secondBorder" value="1b1f23ff"/>
+    <color id="secondBorder" value="121212ff"/>
     <color id="treeSelection" value="39414aff"/>
     <color id="notifications" value="2f363dff"/>
     <color id="accent" value="f9826cff"/>

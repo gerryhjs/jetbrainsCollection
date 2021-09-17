@@ -5,11 +5,11 @@
   <name>One_dark_by_Mayke_Contrast</name>
   <colors>
     <color id="background" value="121212ff"/>
-    <color id="foreground" value="e1e4e8ff"/>
+    <color id="foreground" value="d0d0d0ff"/>
     <color id="text" value="959da5ff"/>
     <color id="highlight" value="444d56ff"/>
     <color id="selectionBackground" value="215b77ff"/>
-    <color id="selectionForeground" value="ffffffff"/>
+    <color id="selectionForeground" value="e1e4e8ff"/>
     <color id="button" value="39414aff"/>
     <color id="secondaryBackground" value="121212ff"/>
     <color id="disabled" value="6a737dff"/>
